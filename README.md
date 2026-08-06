@@ -1,1 +1,3 @@
-# exemplo_c111
+# C111 - Análise de Dados
+
+#### Professor: Flávio Henrique Madureira Bergamini
